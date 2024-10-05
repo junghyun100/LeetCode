@@ -19,7 +19,7 @@ public boolean isValid(String s) {
                 return false;
             }
         }
-        }
+    }
     if(!stack.isEmpty()) return false;
     return true;
     }
