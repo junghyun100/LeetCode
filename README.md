@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Database
+|  |
+| ------- |
+| [1670-patients-with-a-condition](https://github.com/junghyun100/LeetCode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
