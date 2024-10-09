@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junghyun100/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-patients-with-a-condition](https://github.com/junghyun100/LeetCode/tree/master/1670-patients-with-a-condition) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
