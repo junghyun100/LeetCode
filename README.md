@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junghyun100/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 ## Two Pointers
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
