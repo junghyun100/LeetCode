@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/junghyun100/LeetCode/tree/master/0178-rank-scores) |
 | [1390-average-selling-price](https://github.com/junghyun100/LeetCode/tree/master/1390-average-selling-price) |
 | [1670-patients-with-a-condition](https://github.com/junghyun100/LeetCode/tree/master/1670-patients-with-a-condition) |
 ## Simulation
