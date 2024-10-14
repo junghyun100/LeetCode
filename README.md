@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/junghyun100/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/junghyun100/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
+## Counting
+|  |
+| ------- |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
