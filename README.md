@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/junghyun100/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/junghyun100/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3379-score-of-a-string](https://github.com/junghyun100/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
