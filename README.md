@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/junghyun100/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/junghyun100/LeetCode/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/junghyun100/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
