@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/junghyun100/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/junghyun100/LeetCode/tree/master/0178-rank-scores) |
+| [0185-department-top-three-salaries](https://github.com/junghyun100/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0608-tree-node](https://github.com/junghyun100/LeetCode/tree/master/0608-tree-node) |
 | [1390-average-selling-price](https://github.com/junghyun100/LeetCode/tree/master/1390-average-selling-price) |
 | [1523-capital-gainloss](https://github.com/junghyun100/LeetCode/tree/master/1523-capital-gainloss) |
