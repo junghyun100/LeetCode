@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/junghyun100/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/junghyun100/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0916-decoded-string-at-index](https://github.com/junghyun100/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1205-defanging-an-ip-address](https://github.com/junghyun100/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/junghyun100/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3379-score-of-a-string](https://github.com/junghyun100/LeetCode/tree/master/3379-score-of-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
+| [0916-decoded-string-at-index](https://github.com/junghyun100/LeetCode/tree/master/0916-decoded-string-at-index) |
 ## Linked List
 |  |
 | ------- |
