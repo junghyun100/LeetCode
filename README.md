@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/junghyun100/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0608-tree-node](https://github.com/junghyun100/LeetCode/tree/master/0608-tree-node) |
 | [1390-average-selling-price](https://github.com/junghyun100/LeetCode/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/junghyun100/LeetCode/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/junghyun100/LeetCode/tree/master/1523-capital-gainloss) |
 | [1670-patients-with-a-condition](https://github.com/junghyun100/LeetCode/tree/master/1670-patients-with-a-condition) |
 ## Simulation
