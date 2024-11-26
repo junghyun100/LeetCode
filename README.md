@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/junghyun100/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/junghyun100/LeetCode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/junghyun100/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/junghyun100/LeetCode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/junghyun100/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0782-jewels-and-stones](https://github.com/junghyun100/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/junghyun100/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/junghyun100/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/junghyun100/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/junghyun100/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0782-jewels-and-stones](https://github.com/junghyun100/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0916-decoded-string-at-index](https://github.com/junghyun100/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1205-defanging-an-ip-address](https://github.com/junghyun100/LeetCode/tree/master/1205-defanging-an-ip-address) |
