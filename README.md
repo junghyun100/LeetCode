@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/junghyun100/LeetCode/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/junghyun100/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/junghyun100/LeetCode/tree/master/0916-decoded-string-at-index) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/junghyun100/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/junghyun100/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
