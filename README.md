@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/junghyun100/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/junghyun100/LeetCode/tree/master/0035-search-insert-position) |
 | [0463-island-perimeter](https://github.com/junghyun100/LeetCode/tree/master/0463-island-perimeter) |
+| [0792-binary-search](https://github.com/junghyun100/LeetCode/tree/master/0792-binary-search) |
 | [0879-maximize-distance-to-closest-person](https://github.com/junghyun100/LeetCode/tree/master/0879-maximize-distance-to-closest-person) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/junghyun100/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1505-create-target-array-in-the-given-order](https://github.com/junghyun100/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/junghyun100/LeetCode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/junghyun100/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
