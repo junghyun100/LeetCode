@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/junghyun100/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/junghyun100/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/junghyun100/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/junghyun100/LeetCode/tree/master/0071-simplify-path) |
 | [0166-fraction-to-recurring-decimal](https://github.com/junghyun100/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/junghyun100/LeetCode/tree/master/0077-combinations) |
 ## Bit Manipulation
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/junghyun100/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/junghyun100/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
